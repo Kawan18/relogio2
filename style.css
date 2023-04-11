@@ -1,0 +1,46 @@
+@font-face {
+    font-family: font1;
+    src: url(./fonte/font1.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background: #80808088;
+    margin-left: 50vh;
+    margin-top: 35vh;
+    margin-right: 103vh;
+    color: #fff;
+    padding: 15px;
+    border-radius: 20px;
+    border: #333 solid 5px;
+}
+.relogio {
+    margin-left: 31%;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: font1;
+}
+.frase {
+    margin-left: 09%;
+    padding-top: 10px;
+    font-family: font1;
+}
+h1 {
+    margin-left: 25%;
+    font-family: font1;
+    color: rgb(41, 37, 37);
+}
+#imagem {
+    margin-left: 28vh;
+    margin-top: -25vh;
+    width: 150px;
+}
+footer {
+    background: rgba(15, 14, 14, 0.768);
+    padding-left: 70vh;
+    padding-top: 5px;
+    padding-bottom: 5px;  
+    margin-top: 35vh;
+}
